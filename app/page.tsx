@@ -141,7 +141,7 @@ const Home = () => {
               <p className="text-[16px] text-black mb-[10px]"><FontAwesomeIcon icon={faCircleCheck} className="mr-[10px]" />200 MB max. note size</p>
               <p className="text-[16px] text-black mb-[10px] flex"><FontAwesomeIcon icon={faCircleCheck} className="mr-[10px] mt-[5px]" />Customize Home dashboard and access extra widgets</p>
               <p className="text-[16px] text-black mb-[10px] flex"><FontAwesomeIcon icon={faCircleCheck} className="mr-[10px] mt-[4px]" />Connect primary Google Calendar account</p>
-              <p className="text-[16px] text-black mb-[15px] flex"><FontAwesomeIcon icon={faCircleCheck} className="mr-[10px] mt-[5px]" />Add due dates, reminders, and notificatios to your tasks</p>
+              <p className="text-[16px] text-black mb-[15px] flex"><FontAwesomeIcon icon={faCircleCheck} className="mr-[10px] mt-[5px]" />Add due dates, reminders, and notificatios to your tasks.</p>
               <button className="border-[#ffe492] border-[1px] rounded-[7px] px-[30px] py-[10px] font-[400] duration-[0.5s] hover:bg-[#ffe492] hover:duration-[0.5s]">Get Started</button>
             </div>
           </div>
